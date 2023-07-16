@@ -1,5 +1,5 @@
 '''
-更新基础数据-A股基础信息
+new Env('更新基础数据-A股基础信息');
 UpdateStockInfo
 '''
 
