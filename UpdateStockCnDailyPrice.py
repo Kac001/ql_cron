@@ -1,5 +1,5 @@
 '''
-new Env('更新行情数据-A股指数价格');
+new Env('更新行情数据-A股日线价格');
 UpdateStockCnDailyPrice
 '''
 
